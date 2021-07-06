@@ -1,0 +1,2 @@
+# hate-speech-modified-tfidf
+Hate speech detection on the micro-blogging website, twitter. Application of novel modification made to traditional tfidf algorithm for word frequency and weight generation relative to its document frequency. Further, application of classifications models including random forest, naive bayes, decision tree, logistic regression and gradient boosting to classify tweets under the "hate-speech" and the "non-hate speech" tags.
